@@ -1,4 +1,4 @@
-# 👋 Web3D Expert | Full Stack Developer
+# 👋 C# Expert | ASP.NET MVC/CORE | API Development | Blazor | React Specialist
 
 ![html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![css](http://img.shields.io/badge/CSS-2a65f1?style=flat-square&logo=css3&logoColor=white)
@@ -15,29 +15,31 @@
 Hi, Dear. Welcome to my GitHub profile!
 
 ## 🌱 About Me. 
-A highly skilled and experienced Full Stack Developer, proficient in developing scalable, efficient, and user-friendly web applications. With expertise in a wide range of programming languages, frameworks, and technologies, I possess strong problem-solving abilities and excellent communication skills.
-Moreover, with extensive experience in Web3D, I specialize in building truly stunning, beautiful, responsive websites.
-Always excited to collaborate on open-source projects and take on new challenges to push the boundaries of web technologies.
+Hi, dear!  I'm .Net developer with extensive experience in building high quality web projects over 5 years.
+I am passionate about creating efficient, scalable, and secure web applications. Whether you're looking for custom solutions, improving your existing system, or integrating new features, I can bring your vision to life.
 
-## 👀 My service is here.
-- Full Website
-- 2D/3D interactive website
-- 3D modeling/animation
-- Web VR/AR experience
-- 3D product configurator
-- 3D browser-based game.
-- Custom visual effects
-
-## 💞️ Technologies I Work With
-- Frontend: HTML, CSS, TypeScript, Python, Three.js, GSAP, React.js, Next.js
-- Backend: Node.js, Express, MySql, MongoDB, Firebase
-- Design/Modeling/Animation: Blender, 3D Max, Adobe Suite, Figma
-- Version Control: Git, GitHub, GitLab
+🛠️ Key Skills & Tools:
+- C# | ASP.NET MVC/CORE | Entity Framework| Blazor | React | Node.js | WebAPIs
+- JavaScript | JQuery | HTML5 | CSS3 | Bootstrap | Tailwind CSS
+- Entity Framework | SQL Server | SQL | MongoDB
+- Git | Visual Studio | Visual Studio Code | Web API | JWT | OAuth
+  
+🚀 Why Choose  Me?
+- Deep Technical Proficiency: Possessing a comprehensive understanding of modern .NET development, including proficiency in C#, ASP.NET MVC/CORE, Blazor, React, and RESTful API design and implementation.
+- Full-Stack Development Lifecycle: Experienced in managing the entire software development lifecycle, from architectural design and the creation of robust, maintainable code, through to the deployment of high-performance, production-ready applications.
+- Collaborative Client Engagement: Dedicated to fostering transparent communication and strong collaboration, ensuring a deep understanding of client requirements and the successful, timely delivery of projects.
+- Performance-Driven Architecture: Committed to building scalable, secure, and high-performing applications, employing best practices to ensure future-proof solutions that effectively address evolving business needs.
+- 
+🤝 How Can I Help You?
+- Discovery & Planning: I start by understanding your project requirements, defining milestones, and discussing your goals.
+- Design & Development: I develop a robust solution with clean, maintainable, and secure code, always ensuring performance and scalability.
+- Testing & Deployment: I ensure your project is thoroughly tested for bugs, security vulnerabilities, and performance issues.
+- Ongoing Support & Maintenance: After project delivery, I offer continued support, updates, and enhancements.
 
 ## 😄 Pronouns: He/Him
   Looking forward to collaborating on cutting-edge projects!
 
 ## ⚡ Let's connect:
-  Feel free to reach out!
-  Whether you're working on an exciting project or just want to connect, I’m happy to help and collaborate.
-  I’m here to assist with all your Web3D, Full Stack, and interactive web needs.
+  Let’s start building something amazing together!
+
+Many thanks.
