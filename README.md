@@ -1,4 +1,4 @@
-# 👋 C# Expert | ASP.NET MVC/CORE | API Development | Blazor | React Specialist
+# 👋 Three.js | React Expert & JavaScript Frameworks Specialist
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
@@ -19,29 +19,26 @@
 Hi, Dear. Welcome to my GitHub profile!
 
 ## 🌱 About Me. 
-Hi, dear!  I'm .Net developer with extensive experience in building high quality web projects over 5 years.
-I am passionate about creating efficient, scalable, and secure web applications. Whether you're looking for custom solutions, improving your existing system, or integrating new features, I can bring your vision to life.
+Hi! A Senior Web Developer with 5+ years of hands-on experience in building scalable, high-performance web applications. Specializing in React, Three.js, and modern JavaScript frameworks, I am passionate about delivering cutting-edge, immersive web experiences. I have worked on a wide range of projects, from simple single-page applications (SPAs) to highly interactive 3D web applications, leveraging the power of Three.js to create stunning visuals and user interactions.
 
 🛠️ Key Skills & Tools:
-- C# | ASP.NET MVC/CORE | Entity Framework| Blazor | React | Node.js | WebAPIs
-- JavaScript | JQuery | HTML5 | CSS3 | Bootstrap | Tailwind CSS
-- SQL Server | SQL | PostgreSQL | MongoDB
-- Git | Visual Studio | Visual Studio Code | Web API | JWT | OAuth
+- Three.js | React| Next | Vue | Nuxt | Node 
+- HTML5 | CSS3 | JQuery | Material UI | Tailwind CSS
+- MySQL | PostgreSQL | MongoDB
+- API integration | RESTful APIs | Third-party integrations | Git | Jira
   
 🚀 Why Choose  Me?
-- Deep Technical Proficiency: Possessing a comprehensive understanding of modern .NET development, including proficiency in C#, ASP.NET MVC/CORE, Blazor, React, and RESTful API design and implementation.
-- Full-Stack Development Lifecycle: Experienced in managing the entire software development lifecycle, from architectural design and the creation of robust, maintainable code, through to the deployment of high-performance, production-ready applications.
-- Collaborative Client Engagement: Dedicated to fostering transparent communication and strong collaboration, ensuring a deep understanding of client requirements and the successful, timely delivery of projects.
-- Performance-Driven Architecture: Committed to building scalable, secure, and high-performing applications, employing best practices to ensure future-proof solutions that effectively address evolving business needs.
-- 
+- Deep Technical Proficiency
+- Full-Stack Development Lifecycle
+- Collaborative Client Engagement
+- Performance-Driven Architecture
+  
 🤝 How Can I Help You?
 - Discovery & Planning: I start by understanding your project requirements, defining milestones, and discussing your goals.
-- Design & Development: I develop a robust solution with clean, maintainable, and secure code, always ensuring performance and scalability.
+- Design & Development: I develop a robust solution with clean, maintainable, and secure code, always ensuring performance and 
+  scalability.
 - Testing & Deployment: I ensure your project is thoroughly tested for bugs, security vulnerabilities, and performance issues.
 - Ongoing Support & Maintenance: After project delivery, I offer continued support, updates, and enhancements.
-
-## 😄 Pronouns: He/Him
-  Looking forward to collaborating on cutting-edge projects!
 
 ## ⚡ Let's connect:
   Let’s start building something amazing together!
